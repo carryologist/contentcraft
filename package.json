@@ -1,0 +1,24 @@
+{
+  "name": "contentcraft",
+  "version": "1.0.0",
+  "description": "🚀 AI-Powered Marketing Content Creator - Transform source content into compelling blogs and platform-optimized promotional content",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ai", "content-creation", "marketing", "blog-generator", "social-media", "nodejs", "express", "javascript", "open-source"],
+  "author": "carryologist",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carryologist/contentcraft.git"
+  },
+  "homepage": "https://github.com/carryologist/contentcraft#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
